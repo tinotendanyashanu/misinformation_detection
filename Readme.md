@@ -73,6 +73,6 @@ curl -X POST http://127.0.0.1:5000/predict I am running a few minutes late; my p
    ```bash
    python app.py --port=5001
    ```
-4. **Download datasets from the link in the references of the document if needed 
+4. **Download datasets from the link in the references of the document if needed** 
 ---
-**NB Some files were removed due to the size required on the ADP system; you can use the link in the document, but this file has everything needed to test the endpoints. 
+**NB Some files were removed due to the size required on the ADP system; you can use the link in the document, but this file has everything needed to test the endpoints.**
